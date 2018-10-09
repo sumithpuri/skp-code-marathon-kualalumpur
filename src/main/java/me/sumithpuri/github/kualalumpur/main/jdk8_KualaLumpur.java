@@ -102,7 +102,7 @@ public class jdk8_KualaLumpur {
 	    System.out.println("\n#Go To the Root Path of Your Source Code Folders, then Type the Following..."); 
 	    System.out.println("javac -source 1.8 -target 1.8 -cp . -parameters" +  
 	    					" me\\sumithpuri\\github\\kualalumpur\\methodparameterreflection\\jdk8_MethodParameterReflection.java");
-	    System.out.println("\n#After the Compilation, Run the Demonstration / Sampe Using Following...");
+	    System.out.println("\n#After the Compilation, Run the Demonstration / Sample using Following...");
 	    System.out.println("java -cp . me.sumithpuri.github.kualalumpur.methodparameterreflection.jdk8_MethodParameterReflection"); 
 
 	}
