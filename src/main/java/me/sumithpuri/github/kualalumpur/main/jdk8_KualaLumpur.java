@@ -48,6 +48,8 @@ public class jdk8_KualaLumpur {
 		System.out.println("Project Description   Java 8 Companion Code Samples");
 		System.out.println("Technical Blog        http://www.techilashots.com");
 		System.out.println("Technical Blog Post   https://goo.gl/8YBWTk");
+		System.out.println("[Developer Notes]     [01] Use Java Version 9.0+ Compiler");
+		
 		System.out.println();
 		System.out.println("------------------------------------------------------------");
 		System.out.println("[01. Lambda Expressions]");
